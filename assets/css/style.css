@@ -812,7 +812,7 @@ margin-right: 0.25em;
 }
 .slider-wrapper .image-list .image-item{
   max-width: 325px!important;
-  height: 400px;
+  height: 300px;
   object-fit: cover;
 }
 .slider-scrollbar .container-trending{
@@ -862,8 +862,8 @@ margin-right: 0.25em;
 }
 .slider-wrapper .slide-button{
   top: 50%;
-  height: 50px;
-  width: 50px;
+
+  width: 70px;
   color: #fff;
   background-color: #FF5B00;
   font-size: 2.2em;
@@ -881,6 +881,7 @@ margin-right: 0.25em;
 .slider-wrapper .slide-button#next-slide{
   right: -20px;
 }
+
 .widgets{
   padding: 3.5em 2.5em;
   background-color: var(--light-bg-color);
